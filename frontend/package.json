@@ -1,0 +1,26 @@
+{
+  "name": "streamind-dashboard-frontend",
+  "version": "1.0.0",
+  "description": "Streamimg Dashboard - MVP",
+  "main": "Main.jsx",
+  "author": "KY",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.1",
+    "recharts": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.2.4"
+  }
+}
